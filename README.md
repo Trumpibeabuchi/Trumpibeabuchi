@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trumpibeabuchi
+- 👋 Hi, I’m @Trump Ibeabuchi
 - 👀 I’m interested in programming wedsites and apps
 - 🌱 I’m currently learning HTML5, CSS AND JAVA
 - 💞️ I’m looking to collaborate on a gaming app i want to work on, ASAP
